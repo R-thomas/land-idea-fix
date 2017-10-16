@@ -1,0 +1,6 @@
+# Игнорировать папку assets
+assets/
+# Игнорировать папку runtime
+protected/runtime/
+# Игнорировать папку .idea
+.idea
